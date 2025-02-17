@@ -210,12 +210,7 @@
                     <li>Ver series</li>
                     <li>Diseño de páginas web</li>
                 </ul>
-            </div>
-
-            <div class="buttons">
-                <button class="button-one"><a href="CARTA-DE-RECOMENDACIÓN-signed.pdf">Carta de recomendación.</a></button> 
-            </div>
-            
+            </div>            
         </div>
 
     </section>
