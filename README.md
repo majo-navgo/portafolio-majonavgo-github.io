@@ -173,7 +173,7 @@
                 <h3 class="title-experience">
                     KALIANA.MX-SERVICIO SOCIAL
                 </h3>
-                <p class="description-experience">Creación de catálogos anuales para la inmobiliaria Kaliana.mx por 8 meses. <br> <a href="CARTAS DE RECOMENDACIÓN-signed.pdf">Carta de recomendación.</a></p>
+                <p class="description-experience">Creación de catálogos anuales para la inmobiliaria Kaliana.mx por 8 meses. <br> <a href="CARTA-DE-RECOMENDACIÓN-signed.pdf">Carta de recomendación.</a></p>
                 <p class="location">Aguascalientes</p>
             </div>  
 
@@ -213,7 +213,7 @@
             </div>
 
             <div class="buttons">
-                <button class="button-one"><a href="CARTAS DE RECOMENDACIÓN-signed.pdf">Carta de recomendación.</a></button> 
+                <button class="button-one"><a href="CARTA-DE-RECOMENDACIÓN-signed.pdf">Carta de recomendación.</a></button> 
             </div>
             
         </div>
